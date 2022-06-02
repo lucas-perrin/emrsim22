@@ -6,7 +6,7 @@ June 2022
 This presentation was done using Manim :
 The Manim Community Developers. (2022). Manim – Mathematical Animation Framework (Version v0.15.2) [Computer software]. https://www.manim.community/
 
-# BIBLIOGRAPHY
+### BIBLIOGRAPHY
 
 present in the presentation :
 
@@ -15,7 +15,7 @@ present in the presentation :
 [3] Gander, Güttel. 'Paraexp : a parallel integrator for linear initial-value problems.' (2013).
 [4] The Manim Community Developers. Manim – Mathematical Animation Framework (Version v0.15.2). https://www.manim.community/. (2022).
 
-# ABSTRACT
+### ABSTRACT
 
 Assimilation and identification problems related to hyperbolic systems arise in many fields of applications,
 e.g. weather forecasting, seismology or reconstruction of ocean surface [2, 8, 1, 7]. Despite the growing importance
