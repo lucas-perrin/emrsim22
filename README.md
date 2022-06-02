@@ -11,9 +11,13 @@ The Manim Community Developers. (2022). Manim – Mathematical Animation Framewo
 present in the presentation :
 
 [1] Kautsky, Nichols, Van Dooren. 'Robust pole assignment in linear state feedback.' (1985).
+
 [2] Haine, Ramdani. 'Observateurs itératifs, en horizon fini. Application à la reconstruction de données initiales pour des EDP d'évolution.' (2011).
+
 [3] Gander, Güttel. 'Paraexp : a parallel integrator for linear initial-value problems.' (2013).
+
 [4] The Manim Community Developers. Manim – Mathematical Animation Framework (Version v0.15.2). https://www.manim.community/. (2022).
+
 
 ### ABSTRACT
 
