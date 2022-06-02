@@ -1,6 +1,11 @@
 # EMRSIM22 presentation
+
+presentation for the 2022 EMRSIM conference : https://emrsim2022.sciencesconf.org/
+
 Lucas Perrin - INRIA Paris - LJLL
+
 lucas.perrin@inria.fr / lucas.perrin@dauphine.eu
+
 June 2022
 
 This presentation was done using Manim :
